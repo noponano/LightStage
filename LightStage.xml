@@ -1,0 +1,1864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Sneha S\OneDrive\Fantastic Five- Applied R&amp;D\21000500 LightStage\LightStage\LightStage\LightStage.sch</source>
+    <date>03/30/21 11:31:56</date>
+    <tool>Eeschema (5.1.9)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LightStage.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605771E7</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6057C929</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60580FCD</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6057F8A8</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605DF513</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605F5C05</tstamp>
+    </comp>
+    <comp ref="L6">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6060600C</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60608B0D</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605BB62F</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605F35E8</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605F3600</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605F360B</tstamp>
+    </comp>
+    <comp ref="L4">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605F3617</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605F361E</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605F3633</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605F3646</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605FAD7B</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605FAD9E</tstamp>
+    </comp>
+    <comp ref="L3">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605FADAA</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605FADB1</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605FADC6</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60605969</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6060598C</tstamp>
+    </comp>
+    <comp ref="L5">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60605998</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6060599F</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606059B4</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606873CE</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606873F1</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606873FD</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60687404</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60687419</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>PCA9685PW</value>
+      <footprint>Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm</footprint>
+      <datasheet>http://www.nxp.com/documents/data_sheet/PCA9685.pdf</datasheet>
+      <libsource lib="Driver_LED" part="PCA9685PW" description="16-channel 12-bit PWM Fm+ I2C-bus LED controller RGBA TSSOP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605426B2</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60544DCF</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0.33uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60555285</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>LM78L05ACM_NOPB</value>
+      <footprint>footprints:LM78L05ACM&amp;slash_NOPB</footprint>
+      <libsource lib="LightStage-rescue" part="LM78L05ACM_NOPB-LM78L05" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6054D3F3</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60770E3F</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60770E62</tstamp>
+    </comp>
+    <comp ref="L2">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60770E6E</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60770E75</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60770E8A</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931A6F</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931A92</tstamp>
+    </comp>
+    <comp ref="L11">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931A9E</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931AA5</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931ABA</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931ADD</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931B00</tstamp>
+    </comp>
+    <comp ref="L8">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931B0C</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931B13</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931B28</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931B4C</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931B6F</tstamp>
+    </comp>
+    <comp ref="L7">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931B7B</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931B82</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931B97</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931BBB</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931BDE</tstamp>
+    </comp>
+    <comp ref="L9">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931BEA</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931BF1</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60931C06</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60975AEA</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60975B0D</tstamp>
+    </comp>
+    <comp ref="L10">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60975B19</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60975B20</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60975B35</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0C31</tstamp>
+    </comp>
+    <comp ref="C34">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0C54</tstamp>
+    </comp>
+    <comp ref="L16">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0C60</tstamp>
+    </comp>
+    <comp ref="C39">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0C67</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0C9F</tstamp>
+    </comp>
+    <comp ref="C33">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0CC2</tstamp>
+    </comp>
+    <comp ref="L15">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0CCE</tstamp>
+    </comp>
+    <comp ref="C38">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0CD5</tstamp>
+    </comp>
+    <comp ref="U17">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0CEA</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0D0E</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0D31</tstamp>
+    </comp>
+    <comp ref="L12">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0D3D</tstamp>
+    </comp>
+    <comp ref="C35">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0D44</tstamp>
+    </comp>
+    <comp ref="U14">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0D59</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0D7D</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0DA0</tstamp>
+    </comp>
+    <comp ref="L13">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0DAC</tstamp>
+    </comp>
+    <comp ref="C36">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0DB3</tstamp>
+    </comp>
+    <comp ref="U15">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0DC8</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>130m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0DED</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0E10</tstamp>
+    </comp>
+    <comp ref="L14">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0E1C</tstamp>
+    </comp>
+    <comp ref="C37">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0E23</tstamp>
+    </comp>
+    <comp ref="U16">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0E38</tstamp>
+    </comp>
+    <comp ref="U18">
+      <value> </value>
+      <footprint>TPS92200:TPS92200D2DDCR</footprint>
+      <libsource lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609B0C7C</tstamp>
+    </comp>
+    <comp ref="RN1">
+      <value>4609M-101-103LF</value>
+      <footprint>SamacSys_Parts:4609X</footprint>
+      <datasheet>https://www.bourns.com/pdfs/4600M.pdf</datasheet>
+      <fields>
+        <field name="Description">BOURNS - 4609M-101-103LF - RESISTOR, BUSSED RESISTOR NETWORK, 8, 10KOHM, 2%, SIP</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">4609M-101-103LF</field>
+        <field name="Mouser Part Number">652-4609M-1LF-10K</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/4609M-101-103LF?qs=DNfJUgYH4CidlK%252BEhYUkXg%3D%3D</field>
+      </fields>
+      <libsource lib="LightStage-rescue" part="4609M-101-103LF-SamacSys_Parts" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61A0149C</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_02x07_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical_SMD</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x07_Odd_Even" description="Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60874F55</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02_Male</value>
+      <footprint>SamacSys_Parts:Molex_26013114</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>607B81AE</tstamp>
+    </comp>
+    <comp ref="J17">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60ABFE6C</tstamp>
+    </comp>
+    <comp ref="J16">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A8D512</tstamp>
+    </comp>
+    <comp ref="J19">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60A29030</tstamp>
+    </comp>
+    <comp ref="J14">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B29B7F</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B29B87</tstamp>
+    </comp>
+    <comp ref="J18">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B29B8F</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B60FD2</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B60FDA</tstamp>
+    </comp>
+    <comp ref="J15">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B60FE2</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60EDD384</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F447B9</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F447C1</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F447C9</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F447D7</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F447DF</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value> </value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F447E7</tstamp>
+    </comp>
+    <comp ref="J20">
+      <value>781710004</value>
+      <footprint>781710004 Pico-EZmate:781710004</footprint>
+      <libsource lib="78171004_Pico-EZmate" part="781710004" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61886029</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="78171004_Pico-EZmate" part="781710004">
+      <footprints>
+        <fp>CON_781710004</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">781710004</field>
+        <field name="Footprint">CON_781710004</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+        <pin num="3" name="3" type="unspc"/>
+        <pin num="4" name="4" type="unspc"/>
+        <pin num="5" name="5" type="unspc"/>
+        <pin num="6" name="6" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x07_Odd_Even">
+      <description>Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x07_Odd_Even</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_LED" part="PCA9685PW">
+      <description>16-channel 12-bit PWM Fm+ I2C-bus LED controller RGBA TSSOP</description>
+      <docs>http://www.nxp.com/documents/data_sheet/PCA9685.pdf</docs>
+      <footprints>
+        <fp>TSSOP*4.4x9.7mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PCA9685PW</field>
+        <field name="Footprint">Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="A3" type="input"/>
+        <pin num="5" name="A4" type="input"/>
+        <pin num="6" name="LED0" type="output"/>
+        <pin num="7" name="LED1" type="output"/>
+        <pin num="8" name="LED2" type="output"/>
+        <pin num="9" name="LED3" type="output"/>
+        <pin num="10" name="LED4" type="output"/>
+        <pin num="11" name="LED5" type="output"/>
+        <pin num="12" name="LED6" type="output"/>
+        <pin num="13" name="LED7" type="output"/>
+        <pin num="14" name="VSS" type="power_in"/>
+        <pin num="15" name="LED8" type="output"/>
+        <pin num="16" name="LED9" type="output"/>
+        <pin num="17" name="LED10" type="output"/>
+        <pin num="18" name="LED11" type="output"/>
+        <pin num="19" name="LED12" type="output"/>
+        <pin num="20" name="LED13" type="output"/>
+        <pin num="21" name="LED14" type="output"/>
+        <pin num="22" name="LED15" type="output"/>
+        <pin num="23" name="~OE" type="input"/>
+        <pin num="24" name="A5" type="input"/>
+        <pin num="25" name="EXTCLK" type="input"/>
+        <pin num="26" name="SCL" type="input"/>
+        <pin num="27" name="SDA" type="BiDi"/>
+        <pin num="28" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="LightStage-rescue" part="4609M-101-103LF-SamacSys_Parts">
+      <fields>
+        <field name="Reference">RN</field>
+        <field name="Value">4609M-101-103LF-SamacSys_Parts</field>
+        <field name="Footprint">4609X</field>
+        <field name="Datasheet">https://www.bourns.com/pdfs/4600M.pdf</field>
+        <field name="Description">BOURNS - 4609M-101-103LF - RESISTOR, BUSSED RESISTOR NETWORK, 8, 10KOHM, 2%, SIP</field>
+        <field name="Mouser Part Number">652-4609M-1LF-10K</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/4609M-101-103LF?qs=DNfJUgYH4CidlK%252BEhYUkXg%3D%3D</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">4609M-101-103LF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LightStage-rescue" part="LM78L05ACM_NOPB-LM78L05">
+      <footprints>
+        <fp>D0008A_N</fp>
+        <fp>D0008A_M</fp>
+        <fp>D0008A_L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM78L05ACM_NOPB-LM78L05</field>
+        <field name="Footprint">D0008A_N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="NC" type="unspc"/>
+        <pin num="5" name="NC" type="unspc"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="IN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="LightStage-rescue" part="TPS92200D2DDCR-TPS92200">
+      <footprints>
+        <fp>SOT-23-THIN-6_DDC_TEX</fp>
+        <fp>SOT-23-THIN-6_DDC_TEX-M</fp>
+        <fp>SOT-23-THIN-6_DDC_TEX-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS92200D2DDCR-TPS92200</field>
+        <field name="Footprint">SOT-23-THIN-6_DDC_TEX</field>
+      </fields>
+      <pins>
+        <pin num="1" name="FB" type="input"/>
+        <pin num="2" name="DIM" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="VIN" type="power_in"/>
+        <pin num="5" name="SW" type="output"/>
+        <pin num="6" name="BOOT" type="output"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="78171004_Pico-EZmate">
+      <uri>E:/KicadFootPrints/ul_781710004/KiCAD/2021-03-19_07-08-45/2021-03-19_07-08-45.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Driver_LED">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Driver_LED.lib</uri>
+    </library>
+    <library logical="LightStage-rescue">
+      <uri>C:\Users\Sneha S\OneDrive\Fantastic Five- Applied R&amp;D\21000500 LightStage\LightStage\LightStage/LightStage-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(C30-Pad1)">
+      <node ref="U14" pin="6"/>
+      <node ref="C30" pin="1"/>
+    </net>
+    <net code="2" name="PWM13">
+      <node ref="U4" pin="20"/>
+      <node ref="U15" pin="2"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C8" pin="2"/>
+      <node ref="U7" pin="3"/>
+      <node ref="R4" pin="2"/>
+      <node ref="C38" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="U6" pin="3"/>
+      <node ref="R1" pin="2"/>
+      <node ref="C17" pin="2"/>
+      <node ref="RN1" pin="1"/>
+      <node ref="U18" pin="3"/>
+      <node ref="R18" pin="2"/>
+      <node ref="J2" pin="2"/>
+      <node ref="C39" pin="2"/>
+      <node ref="U17" pin="3"/>
+      <node ref="U2" pin="3"/>
+      <node ref="U5" pin="3"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="U4" pin="14"/>
+      <node ref="R8" pin="2"/>
+      <node ref="U1" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="U1" pin="3"/>
+      <node ref="U4" pin="25"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C25" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="U1" pin="6"/>
+      <node ref="U1" pin="7"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R14" pin="2"/>
+      <node ref="U3" pin="3"/>
+      <node ref="C26" pin="2"/>
+      <node ref="U10" pin="3"/>
+      <node ref="C29" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="U8" pin="3"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R10" pin="2"/>
+      <node ref="U9" pin="3"/>
+      <node ref="R12" pin="2"/>
+      <node ref="R11" pin="2"/>
+      <node ref="U13" pin="3"/>
+      <node ref="U11" pin="3"/>
+      <node ref="C27" pin="2"/>
+      <node ref="C37" pin="2"/>
+      <node ref="C36" pin="2"/>
+      <node ref="C35" pin="2"/>
+      <node ref="U16" pin="3"/>
+      <node ref="R15" pin="2"/>
+      <node ref="R19" pin="2"/>
+      <node ref="C28" pin="2"/>
+      <node ref="R17" pin="2"/>
+      <node ref="U12" pin="3"/>
+      <node ref="U15" pin="3"/>
+      <node ref="U14" pin="3"/>
+      <node ref="R16" pin="2"/>
+      <node ref="R13" pin="2"/>
+    </net>
+    <net code="4" name="PWM12">
+      <node ref="U4" pin="19"/>
+      <node ref="U14" pin="2"/>
+    </net>
+    <net code="5" name="n_LED12">
+      <node ref="J7" pin="1"/>
+      <node ref="R15" pin="1"/>
+      <node ref="U14" pin="1"/>
+    </net>
+    <net code="6" name="Net-(C31-Pad2)">
+      <node ref="C31" pin="2"/>
+      <node ref="L13" pin="1"/>
+      <node ref="U15" pin="5"/>
+    </net>
+    <net code="7" name="Net-(C31-Pad1)">
+      <node ref="C31" pin="1"/>
+      <node ref="U15" pin="6"/>
+    </net>
+    <net code="8" name="p_LED12">
+      <node ref="J7" pin="4"/>
+      <node ref="C35" pin="1"/>
+      <node ref="L12" pin="2"/>
+    </net>
+    <net code="9" name="Net-(C30-Pad2)">
+      <node ref="C30" pin="2"/>
+      <node ref="U14" pin="5"/>
+      <node ref="L12" pin="1"/>
+    </net>
+    <net code="10" name="p_LED14">
+      <node ref="L14" pin="2"/>
+      <node ref="J4" pin="4"/>
+      <node ref="C37" pin="1"/>
+    </net>
+    <net code="11" name="Net-(C32-Pad2)">
+      <node ref="C32" pin="2"/>
+      <node ref="L14" pin="1"/>
+      <node ref="U16" pin="5"/>
+    </net>
+    <net code="12" name="Net-(C32-Pad1)">
+      <node ref="C32" pin="1"/>
+      <node ref="U16" pin="6"/>
+    </net>
+    <net code="13" name="PWM14">
+      <node ref="U4" pin="21"/>
+      <node ref="U16" pin="2"/>
+    </net>
+    <net code="14" name="n_LED14">
+      <node ref="J4" pin="1"/>
+      <node ref="U16" pin="1"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="15" name="n_LED13">
+      <node ref="J8" pin="1"/>
+      <node ref="U15" pin="1"/>
+      <node ref="R16" pin="1"/>
+    </net>
+    <net code="16" name="24V">
+      <node ref="U2" pin="4"/>
+      <node ref="J2" pin="1"/>
+      <node ref="U11" pin="4"/>
+      <node ref="U18" pin="4"/>
+      <node ref="U5" pin="4"/>
+      <node ref="U10" pin="4"/>
+      <node ref="U9" pin="4"/>
+      <node ref="C1" pin="1"/>
+      <node ref="U13" pin="4"/>
+      <node ref="U3" pin="4"/>
+      <node ref="U14" pin="4"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U16" pin="4"/>
+      <node ref="U6" pin="4"/>
+      <node ref="C2" pin="1"/>
+      <node ref="U15" pin="4"/>
+      <node ref="U8" pin="4"/>
+      <node ref="C3" pin="1"/>
+      <node ref="U7" pin="4"/>
+      <node ref="U12" pin="4"/>
+      <node ref="U17" pin="4"/>
+    </net>
+    <net code="17" name="p_LED13">
+      <node ref="C36" pin="1"/>
+      <node ref="J8" pin="4"/>
+      <node ref="L13" pin="2"/>
+    </net>
+    <net code="18" name="Net-(C33-Pad1)">
+      <node ref="U17" pin="6"/>
+      <node ref="C33" pin="1"/>
+    </net>
+    <net code="19" name="p_LED9">
+      <node ref="C28" pin="1"/>
+      <node ref="L10" pin="2"/>
+      <node ref="J12" pin="4"/>
+    </net>
+    <net code="20" name="Net-(C22-Pad2)">
+      <node ref="U12" pin="5"/>
+      <node ref="C22" pin="2"/>
+      <node ref="L10" pin="1"/>
+    </net>
+    <net code="21" name="Net-(C22-Pad1)">
+      <node ref="U12" pin="6"/>
+      <node ref="C22" pin="1"/>
+    </net>
+    <net code="22" name="PWM9">
+      <node ref="U12" pin="2"/>
+      <node ref="U4" pin="16"/>
+    </net>
+    <net code="23" name="n_LED9">
+      <node ref="R13" pin="1"/>
+      <node ref="J12" pin="1"/>
+      <node ref="U12" pin="1"/>
+    </net>
+    <net code="24" name="n_LED8">
+      <node ref="R12" pin="1"/>
+      <node ref="J11" pin="1"/>
+      <node ref="U11" pin="1"/>
+    </net>
+    <net code="25" name="p_LED8">
+      <node ref="J11" pin="4"/>
+      <node ref="C27" pin="1"/>
+      <node ref="L9" pin="2"/>
+    </net>
+    <net code="26" name="Net-(C21-Pad2)">
+      <node ref="C21" pin="2"/>
+      <node ref="U11" pin="5"/>
+      <node ref="L9" pin="1"/>
+    </net>
+    <net code="27" name="Net-(C33-Pad2)">
+      <node ref="L15" pin="1"/>
+      <node ref="C33" pin="2"/>
+      <node ref="U17" pin="5"/>
+    </net>
+    <net code="28" name="PWM10">
+      <node ref="U4" pin="17"/>
+      <node ref="U17" pin="2"/>
+    </net>
+    <net code="29" name="n_LED10">
+      <node ref="J9" pin="1"/>
+      <node ref="U17" pin="1"/>
+      <node ref="R18" pin="1"/>
+    </net>
+    <net code="30" name="p_LED10">
+      <node ref="L15" pin="2"/>
+      <node ref="C38" pin="1"/>
+      <node ref="J9" pin="4"/>
+    </net>
+    <net code="31" name="p_LED11">
+      <node ref="J6" pin="4"/>
+      <node ref="L16" pin="2"/>
+      <node ref="C39" pin="1"/>
+    </net>
+    <net code="32" name="Net-(J10-Pad3)">
+      <node ref="J10" pin="3"/>
+    </net>
+    <net code="33" name="Net-(J15-Pad3)">
+      <node ref="J15" pin="3"/>
+    </net>
+    <net code="34" name="Net-(J15-Pad2)">
+      <node ref="J15" pin="2"/>
+    </net>
+    <net code="35" name="n_LED6">
+      <node ref="R11" pin="1"/>
+      <node ref="J15" pin="1"/>
+      <node ref="U10" pin="1"/>
+    </net>
+    <net code="36" name="n_LED7">
+      <node ref="J10" pin="1"/>
+      <node ref="U9" pin="1"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="37" name="p_LED7">
+      <node ref="L7" pin="2"/>
+      <node ref="C25" pin="1"/>
+      <node ref="J10" pin="4"/>
+    </net>
+    <net code="38" name="Net-(J10-Pad6)">
+      <node ref="J10" pin="6"/>
+    </net>
+    <net code="39" name="Net-(J10-Pad5)">
+      <node ref="J10" pin="5"/>
+    </net>
+    <net code="40" name="p_LED6">
+      <node ref="J15" pin="4"/>
+      <node ref="L8" pin="2"/>
+      <node ref="C26" pin="1"/>
+    </net>
+    <net code="41" name="Net-(J10-Pad2)">
+      <node ref="J10" pin="2"/>
+    </net>
+    <net code="42" name="Net-(J11-Pad6)">
+      <node ref="J11" pin="6"/>
+    </net>
+    <net code="43" name="Net-(J11-Pad5)">
+      <node ref="J11" pin="5"/>
+    </net>
+    <net code="44" name="Net-(J11-Pad3)">
+      <node ref="J11" pin="3"/>
+    </net>
+    <net code="45" name="Net-(J12-Pad3)">
+      <node ref="J12" pin="3"/>
+    </net>
+    <net code="46" name="Net-(J12-Pad6)">
+      <node ref="J12" pin="6"/>
+    </net>
+    <net code="47" name="Net-(J12-Pad5)">
+      <node ref="J12" pin="5"/>
+    </net>
+    <net code="48" name="Net-(J11-Pad2)">
+      <node ref="J11" pin="2"/>
+    </net>
+    <net code="49" name="Net-(J12-Pad2)">
+      <node ref="J12" pin="2"/>
+    </net>
+    <net code="50" name="Net-(J15-Pad6)">
+      <node ref="J15" pin="6"/>
+    </net>
+    <net code="51" name="Net-(J15-Pad5)">
+      <node ref="J15" pin="5"/>
+    </net>
+    <net code="52" name="Net-(J14-Pad6)">
+      <node ref="J14" pin="6"/>
+    </net>
+    <net code="53" name="Net-(J13-Pad6)">
+      <node ref="J13" pin="6"/>
+    </net>
+    <net code="54" name="Net-(J13-Pad5)">
+      <node ref="J13" pin="5"/>
+    </net>
+    <net code="55" name="p_LED4">
+      <node ref="J13" pin="4"/>
+      <node ref="L1" pin="2"/>
+      <node ref="C8" pin="1"/>
+    </net>
+    <net code="56" name="Net-(J13-Pad3)">
+      <node ref="J13" pin="3"/>
+    </net>
+    <net code="57" name="Net-(J13-Pad2)">
+      <node ref="J13" pin="2"/>
+    </net>
+    <net code="58" name="n_LED5">
+      <node ref="J14" pin="1"/>
+      <node ref="R5" pin="1"/>
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="59" name="p_LED5">
+      <node ref="L2" pin="2"/>
+      <node ref="J14" pin="4"/>
+      <node ref="C9" pin="1"/>
+    </net>
+    <net code="60" name="Net-(J14-Pad5)">
+      <node ref="J14" pin="5"/>
+    </net>
+    <net code="61" name="Net-(J14-Pad3)">
+      <node ref="J14" pin="3"/>
+    </net>
+    <net code="62" name="Net-(J14-Pad2)">
+      <node ref="J14" pin="2"/>
+    </net>
+    <net code="63" name="n_LED4">
+      <node ref="R4" pin="1"/>
+      <node ref="J13" pin="1"/>
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="64" name="n_LED3">
+      <node ref="U7" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="J18" pin="4"/>
+    </net>
+    <net code="65" name="p_LED3">
+      <node ref="J18" pin="1"/>
+      <node ref="L5" pin="2"/>
+      <node ref="C16" pin="1"/>
+    </net>
+    <net code="66" name="Net-(J18-Pad6)">
+      <node ref="J18" pin="6"/>
+    </net>
+    <net code="67" name="Net-(J18-Pad5)">
+      <node ref="J18" pin="5"/>
+    </net>
+    <net code="68" name="Net-(J18-Pad3)">
+      <node ref="J18" pin="3"/>
+    </net>
+    <net code="69" name="Net-(J18-Pad2)">
+      <node ref="J18" pin="2"/>
+    </net>
+    <net code="70" name="Net-(J8-Pad3)">
+      <node ref="J8" pin="3"/>
+    </net>
+    <net code="71" name="Net-(J8-Pad2)">
+      <node ref="J8" pin="2"/>
+    </net>
+    <net code="72" name="Net-(J4-Pad6)">
+      <node ref="J4" pin="6"/>
+    </net>
+    <net code="73" name="Net-(J4-Pad5)">
+      <node ref="J4" pin="5"/>
+    </net>
+    <net code="74" name="Net-(J8-Pad5)">
+      <node ref="J8" pin="5"/>
+    </net>
+    <net code="75" name="Net-(J4-Pad3)">
+      <node ref="J4" pin="3"/>
+    </net>
+    <net code="76" name="Net-(J4-Pad2)">
+      <node ref="J4" pin="2"/>
+    </net>
+    <net code="77" name="n_LED15">
+      <node ref="J5" pin="1"/>
+      <node ref="U13" pin="1"/>
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="78" name="p_LED15">
+      <node ref="L11" pin="2"/>
+      <node ref="J5" pin="4"/>
+      <node ref="C29" pin="1"/>
+    </net>
+    <net code="79" name="Net-(J5-Pad6)">
+      <node ref="J5" pin="6"/>
+    </net>
+    <net code="80" name="Net-(J5-Pad5)">
+      <node ref="J5" pin="5"/>
+    </net>
+    <net code="81" name="Net-(J20-Pad5)">
+      <node ref="J20" pin="5"/>
+    </net>
+    <net code="82" name="SCL">
+      <node ref="J20" pin="4"/>
+      <node ref="R2" pin="1"/>
+      <node ref="U4" pin="26"/>
+    </net>
+    <net code="83" name="SDA">
+      <node ref="R3" pin="1"/>
+      <node ref="J20" pin="1"/>
+      <node ref="U4" pin="27"/>
+    </net>
+    <net code="84" name="Net-(J20-Pad6)">
+      <node ref="J20" pin="6"/>
+    </net>
+    <net code="85" name="Net-(J5-Pad3)">
+      <node ref="J5" pin="3"/>
+    </net>
+    <net code="86" name="Net-(J20-Pad3)">
+      <node ref="J20" pin="3"/>
+    </net>
+    <net code="87" name="Net-(J20-Pad2)">
+      <node ref="J20" pin="2"/>
+    </net>
+    <net code="88" name="Net-(J8-Pad6)">
+      <node ref="J8" pin="6"/>
+    </net>
+    <net code="89" name="Net-(J6-Pad6)">
+      <node ref="J6" pin="6"/>
+    </net>
+    <net code="90" name="Net-(J6-Pad5)">
+      <node ref="J6" pin="5"/>
+    </net>
+    <net code="91" name="Net-(J6-Pad3)">
+      <node ref="J6" pin="3"/>
+    </net>
+    <net code="92" name="Net-(J6-Pad2)">
+      <node ref="J6" pin="2"/>
+    </net>
+    <net code="93" name="Net-(J7-Pad6)">
+      <node ref="J7" pin="6"/>
+    </net>
+    <net code="94" name="Net-(J7-Pad5)">
+      <node ref="J7" pin="5"/>
+    </net>
+    <net code="95" name="Net-(J7-Pad3)">
+      <node ref="J7" pin="3"/>
+    </net>
+    <net code="96" name="Net-(J7-Pad2)">
+      <node ref="J7" pin="2"/>
+    </net>
+    <net code="97" name="Net-(J5-Pad2)">
+      <node ref="J5" pin="2"/>
+    </net>
+    <net code="98" name="Net-(J9-Pad6)">
+      <node ref="J9" pin="6"/>
+    </net>
+    <net code="99" name="Net-(J9-Pad5)">
+      <node ref="J9" pin="5"/>
+    </net>
+    <net code="100" name="Net-(J9-Pad3)">
+      <node ref="J9" pin="3"/>
+    </net>
+    <net code="101" name="Net-(J9-Pad2)">
+      <node ref="J9" pin="2"/>
+    </net>
+    <net code="102" name="A4">
+      <node ref="U4" pin="5"/>
+      <node ref="RN1" pin="6"/>
+      <node ref="J1" pin="10"/>
+    </net>
+    <net code="103" name="A2">
+      <node ref="U4" pin="3"/>
+      <node ref="J1" pin="6"/>
+      <node ref="RN1" pin="4"/>
+    </net>
+    <net code="104" name="A3">
+      <node ref="RN1" pin="5"/>
+      <node ref="U4" pin="4"/>
+      <node ref="J1" pin="8"/>
+    </net>
+    <net code="105" name="A5">
+      <node ref="RN1" pin="7"/>
+      <node ref="U4" pin="24"/>
+      <node ref="J1" pin="12"/>
+    </net>
+    <net code="106" name="A0">
+      <node ref="J1" pin="2"/>
+      <node ref="U4" pin="1"/>
+      <node ref="RN1" pin="2"/>
+    </net>
+    <net code="107" name="A1">
+      <node ref="RN1" pin="3"/>
+      <node ref="U4" pin="2"/>
+      <node ref="J1" pin="4"/>
+    </net>
+    <net code="108" name="OE">
+      <node ref="J1" pin="14"/>
+      <node ref="U4" pin="23"/>
+      <node ref="RN1" pin="8"/>
+    </net>
+    <net code="109" name="PWM8">
+      <node ref="U4" pin="15"/>
+      <node ref="U11" pin="2"/>
+    </net>
+    <net code="110" name="PWM7">
+      <node ref="U9" pin="2"/>
+      <node ref="U4" pin="13"/>
+    </net>
+    <net code="111" name="PWM6">
+      <node ref="U10" pin="2"/>
+      <node ref="U4" pin="12"/>
+    </net>
+    <net code="112" name="Net-(C34-Pad1)">
+      <node ref="U18" pin="6"/>
+      <node ref="C34" pin="1"/>
+    </net>
+    <net code="113" name="Net-(C34-Pad2)">
+      <node ref="C34" pin="2"/>
+      <node ref="U18" pin="5"/>
+      <node ref="L16" pin="1"/>
+    </net>
+    <net code="114" name="PWM11">
+      <node ref="U18" pin="2"/>
+      <node ref="U4" pin="18"/>
+    </net>
+    <net code="115" name="n_LED11">
+      <node ref="U18" pin="1"/>
+      <node ref="R19" pin="1"/>
+      <node ref="J6" pin="1"/>
+    </net>
+    <net code="116" name="Net-(RN1-Pad9)">
+      <node ref="RN1" pin="9"/>
+    </net>
+    <net code="117" name="p_LED2">
+      <node ref="J17" pin="1"/>
+      <node ref="L3" pin="2"/>
+      <node ref="C14" pin="1"/>
+    </net>
+    <net code="118" name="n_LED2">
+      <node ref="R6" pin="1"/>
+      <node ref="U5" pin="1"/>
+      <node ref="J17" pin="4"/>
+    </net>
+    <net code="119" name="Net-(J17-Pad6)">
+      <node ref="J17" pin="6"/>
+    </net>
+    <net code="120" name="Net-(J17-Pad5)">
+      <node ref="J17" pin="5"/>
+    </net>
+    <net code="121" name="Net-(J17-Pad3)">
+      <node ref="J17" pin="3"/>
+    </net>
+    <net code="122" name="Net-(J17-Pad2)">
+      <node ref="J17" pin="2"/>
+    </net>
+    <net code="123" name="Net-(J16-Pad2)">
+      <node ref="J16" pin="2"/>
+    </net>
+    <net code="124" name="n_LED1">
+      <node ref="U6" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="J16" pin="4"/>
+    </net>
+    <net code="125" name="p_LED1">
+      <node ref="C15" pin="1"/>
+      <node ref="L4" pin="2"/>
+      <node ref="J16" pin="1"/>
+    </net>
+    <net code="126" name="n_LED0">
+      <node ref="U8" pin="1"/>
+      <node ref="R9" pin="1"/>
+      <node ref="J19" pin="4"/>
+    </net>
+    <net code="127" name="p_LED0">
+      <node ref="J19" pin="1"/>
+      <node ref="L6" pin="2"/>
+      <node ref="C17" pin="1"/>
+    </net>
+    <net code="128" name="5V">
+      <node ref="J1" pin="1"/>
+      <node ref="J1" pin="3"/>
+      <node ref="J1" pin="11"/>
+      <node ref="J1" pin="9"/>
+      <node ref="J1" pin="5"/>
+      <node ref="J1" pin="7"/>
+      <node ref="J1" pin="13"/>
+      <node ref="U1" pin="1"/>
+      <node ref="U4" pin="28"/>
+      <node ref="C5" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="129" name="Net-(J19-Pad2)">
+      <node ref="J19" pin="2"/>
+    </net>
+    <net code="130" name="Net-(J19-Pad6)">
+      <node ref="J19" pin="6"/>
+    </net>
+    <net code="131" name="Net-(J19-Pad5)">
+      <node ref="J19" pin="5"/>
+    </net>
+    <net code="132" name="Net-(J19-Pad3)">
+      <node ref="J19" pin="3"/>
+    </net>
+    <net code="133" name="Net-(J16-Pad6)">
+      <node ref="J16" pin="6"/>
+    </net>
+    <net code="134" name="Net-(J16-Pad5)">
+      <node ref="J16" pin="5"/>
+    </net>
+    <net code="135" name="Net-(J16-Pad3)">
+      <node ref="J16" pin="3"/>
+    </net>
+    <net code="136" name="PWM15">
+      <node ref="U4" pin="22"/>
+      <node ref="U13" pin="2"/>
+    </net>
+    <net code="137" name="Net-(C12-Pad1)">
+      <node ref="U7" pin="6"/>
+      <node ref="C12" pin="1"/>
+    </net>
+    <net code="138" name="PWM3">
+      <node ref="U4" pin="9"/>
+      <node ref="U7" pin="2"/>
+    </net>
+    <net code="139" name="Net-(C12-Pad2)">
+      <node ref="L5" pin="1"/>
+      <node ref="U7" pin="5"/>
+      <node ref="C12" pin="2"/>
+    </net>
+    <net code="140" name="Net-(C10-Pad2)">
+      <node ref="L3" pin="1"/>
+      <node ref="U5" pin="5"/>
+      <node ref="C10" pin="2"/>
+    </net>
+    <net code="141" name="Net-(C10-Pad1)">
+      <node ref="U5" pin="6"/>
+      <node ref="C10" pin="1"/>
+    </net>
+    <net code="142" name="PWM2">
+      <node ref="U4" pin="8"/>
+      <node ref="U5" pin="2"/>
+    </net>
+    <net code="143" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="144" name="PWM4">
+      <node ref="U4" pin="10"/>
+      <node ref="U2" pin="2"/>
+    </net>
+    <net code="145" name="PWM5">
+      <node ref="U4" pin="11"/>
+      <node ref="U3" pin="2"/>
+    </net>
+    <net code="146" name="Net-(C6-Pad2)">
+      <node ref="L1" pin="1"/>
+      <node ref="C6" pin="2"/>
+      <node ref="U2" pin="5"/>
+    </net>
+    <net code="147" name="Net-(C13-Pad1)">
+      <node ref="U8" pin="6"/>
+      <node ref="C13" pin="1"/>
+    </net>
+    <net code="148" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2"/>
+      <node ref="U8" pin="5"/>
+      <node ref="L6" pin="1"/>
+    </net>
+    <net code="149" name="PWM0">
+      <node ref="U8" pin="2"/>
+      <node ref="U4" pin="6"/>
+    </net>
+    <net code="150" name="Net-(D1-Pad1)">
+      <node ref="R1" pin="1"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="151" name="Net-(C11-Pad2)">
+      <node ref="U6" pin="5"/>
+      <node ref="C11" pin="2"/>
+      <node ref="L4" pin="1"/>
+    </net>
+    <net code="152" name="PWM1">
+      <node ref="U4" pin="7"/>
+      <node ref="U6" pin="2"/>
+    </net>
+    <net code="153" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1"/>
+      <node ref="U6" pin="6"/>
+    </net>
+    <net code="154" name="Net-(C20-Pad1)">
+      <node ref="C20" pin="1"/>
+      <node ref="U10" pin="6"/>
+    </net>
+    <net code="155" name="Net-(C20-Pad2)">
+      <node ref="C20" pin="2"/>
+      <node ref="U10" pin="5"/>
+      <node ref="L8" pin="1"/>
+    </net>
+    <net code="156" name="Net-(C23-Pad2)">
+      <node ref="U13" pin="5"/>
+      <node ref="C23" pin="2"/>
+      <node ref="L11" pin="1"/>
+    </net>
+    <net code="157" name="Net-(C23-Pad1)">
+      <node ref="U13" pin="6"/>
+      <node ref="C23" pin="1"/>
+    </net>
+    <net code="158" name="Net-(C18-Pad2)">
+      <node ref="C18" pin="2"/>
+      <node ref="L7" pin="1"/>
+      <node ref="U9" pin="5"/>
+    </net>
+    <net code="159" name="Net-(C21-Pad1)">
+      <node ref="C21" pin="1"/>
+      <node ref="U11" pin="6"/>
+    </net>
+    <net code="160" name="Net-(C18-Pad1)">
+      <node ref="C18" pin="1"/>
+      <node ref="U9" pin="6"/>
+    </net>
+    <net code="161" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1"/>
+      <node ref="U3" pin="6"/>
+    </net>
+    <net code="162" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2"/>
+      <node ref="U3" pin="5"/>
+      <node ref="L2" pin="1"/>
+    </net>
+    <net code="163" name="Net-(U1-Pad5)">
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="164" name="Net-(U1-Pad4)">
+      <node ref="U1" pin="4"/>
+    </net>
+  </nets>
+</export>
